@@ -1,7 +1,7 @@
 # Python coding standards
 
 ## Introduction
-We use a slightly modified version of the official [Style Guide for Python Code (PEP 8)](http://www.python.org/dev/peps/pep-0008/) and [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html) as a basis for our coding standards. This article describes our modifications and additions and also contains a summary of the coding standards. Reading the official style guide is highly recommended before moving on, as this article merely complements it. A code-based summary of formatting rules can be found on `sample_code.md`.
+We use a slightly modified version of the official [Style Guide for Python Code (PEP 8)](http://www.python.org/dev/peps/pep-0008/) and [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html) as a basis for our coding standards. This article describes our modifications and additions and also contains a summary of the coding standards. Reading the official style guide is highly recommended before moving on, as this article merely complements it. A code-based summary of formatting rules can be found on [`sample_code.py`](https://github.com/trein/python-style-guide/blob/master/sample_code.py).
 
 ## Required Reading
 * [Python Best Practices](http://docs.python-guide.org/en/latest/)
@@ -9,16 +9,19 @@ We use a slightly modified version of the official [Style Guide for Python Code 
 * [Style Guide for Python code](http://www.python.org/dev/peps/pep-0008/)
 * [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 
+## TODO
+* Add best Git practices (commit summary, description)
+* Add Git command line aliases
 
 ## Contributing
 This coding standard is a work-in-progress. In order to contribute to it, create a pull request with your change and add the motivation in the summary of your commit.
 
 ## Code Style Rules
 
-### Line length
+### Line Length
 
 * Do not use backslash line continuation.
-* Maximum line length is 80 characters.
+* Maximum line length is __80 characters__.
 	* Exceptions:
 		* Long import statements.
 		* URLs in comments.

@@ -1,6 +1,3 @@
-# Python sample code following style guide
-
-```python
 # -*- coding: utf-8 -*-
 """Example Google style docstrings.
 
@@ -224,4 +221,3 @@ class ExampleClass(object):
 
     def _private_without_docstring(self):
         pass
-```
