@@ -1,8 +1,6 @@
 # Development Best Practices
 
-## Introduction
-* [Python Coding Standards]()
-* [Git Best Practices]()
+The complete wiki can be accessed [here](https://github.com/trein/dev-best-practices/wiki)
 
 ## TODO
 * Add best Git practices (commit summary, description)
