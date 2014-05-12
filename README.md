@@ -21,3 +21,5 @@ This document is a work-in-progress. In order to contribute to it, create a pull
 - [Refactoring: Improving the Design of Existing Code - Martin Fowler](http://www.amazon.ca/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 - [Design Patterns for Beginners](http://pypix.com/tools-and-tips/design-patterns-beginners/)
 - [Sample Python Design Patterns Implementations](https://github.com/faif/python-patterns)
+- [Git Version Control Official Reference](http://git-scm.com/)
+- [Pragmatic Version Control Using Git - Travis Swicegood](http://pragprog.com/book/tsgit/pragmatic-version-control-using-git)
