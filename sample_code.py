@@ -204,11 +204,11 @@ class ExampleClass(object):
     def __special_without_docstring__(self):
         pass
 
-    def _private(self):
+    def __private(self):
         """By default private members are not included.
 
-        Private members are any methods or attributes that start with an
-        underscore and are *not* special. By default they are not included
+        Private members are any methods or attributes that start with two
+        underscores and are *not* special. By default they are not included
         in the output.
 
         This behavior can be changed such that private members *are* included
@@ -219,5 +219,24 @@ class ExampleClass(object):
         """
         pass
 
-    def _private_without_docstring(self):
+    def __private_without_docstring(self):
         pass
+      
+    def _protected(self):
+        """By default protected members are not included.
+
+        Protected members are any methods or attributes that start with an
+        underscores and are *not* special. By default they are not included
+        in the output.
+
+        This behavior can be changed such that private members *are* included
+        by changing the following setting in Sphinx's conf.py::
+
+            napoleon_include_private_with_doc = True
+
+        """
+        pass
+      
+    def _protected_without_docstring(self):
+        pass
+      
