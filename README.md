@@ -20,6 +20,7 @@ This document is a work-in-progress. In order to contribute to it, create a pull
 - [Sample Python Design Patterns Implementations](https://github.com/faif/python-patterns) - Sakis Kasampalis
 - [Pragmatic Version Control Using Git](http://pragprog.com/book/tsgit/pragmatic-version-control-using-git) - Travis Swicegood
 - [Git Version Control Official Reference](http://git-scm.com/)
+- [A Hacker’s Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git) - Joseph Wynn
 - [Style Guide for Python code](http://www.python.org/dev/peps/pep-0008/)
 - [Python Best Practices](http://docs.python-guide.org/en/latest/)
 - [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
