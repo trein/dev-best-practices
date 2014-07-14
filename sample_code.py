@@ -29,6 +29,8 @@ Attributes:
 
 """
 
+MODULE_LEVEL_CONSTANT = 3.14
+
 module_level_variable = 12345
 
 
