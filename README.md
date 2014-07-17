@@ -22,8 +22,8 @@ This document is a work-in-progress. In order to contribute to it, create a pull
 - [Git Version Control Official Reference](http://git-scm.com/)
 - [A Hacker’s Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git) - Joseph Wynn
 - [Style Guide for Python code](http://www.python.org/dev/peps/pep-0008/)
+- [Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
 - [Python Best Practices](http://docs.python-guide.org/en/latest/)
 - [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 - [Best Practices in Modern Web Projects](http://blog.arvidandersson.se/2014/06/17/best-practices-in-modern-web-projects) - Arvid Andersson
-- [Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
 
