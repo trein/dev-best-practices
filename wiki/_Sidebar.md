@@ -1,0 +1,8 @@
+- [Home](https://github.com/trein/dev-best-practices/wiki)
+- [Python Coding Standards](https://github.com/trein/dev-best-practices/wiki/Python-Coding-Standards)
+- [Python Design Patterns](https://github.com/trein/dev-best-practices/wiki/Python-Design-Patterns)
+- [Python Automatic Testing](https://github.com/trein/dev-best-practices/wiki/Python-Automatic-Testing)
+- [Git Commit Best Practices](https://github.com/trein/dev-best-practices/wiki/Git-Commit-Best-Practices)
+- [Git Tips](https://github.com/trein/dev-best-practices/wiki/Git-Tips)
+- [Code Review Check List](https://github.com/trein/dev-best-practices/wiki/Code-Review-Check-List)
+- [Software Life-Cycle, Continuous Integration and Continuous Delivery](https://github.com/trein/dev-best-practices/wiki/Software-Life-Cycle,-Continuous-Integration-and-Continuous-Delivery)
