@@ -283,8 +283,8 @@ Avoid using the `+` and `+=` operators to accumulate a string within a loop. Sin
 items = ['<table>']
 for last_name, first_name in employee_list:
      items.append('<tr><td>%s, %s</td></tr>' % (last_name, first_name))
-     items.append('</table>')
-     employee_table = ''.join(items)
+items.append('</table>')
+employee_table = ''.join(items)
 
 # No:
 employee_table = '<table>'
@@ -293,7 +293,7 @@ for last_name, first_name in employee_list:
     employee_table += '</table>'
 ```
 
-Be consistent with your choice of string quote character within a file. Pick `'` or `"` and stick with it. It is okay to use the other quote character on a string to avoid the need to `\` escape within the string.
+Be consistent with your choice of string quote character within a file. Pick `'` or `"` and stick with it. If the module you are working on already uses `"`, stick with it. It is okay, however, to use the other quote character on a string to avoid the need to `\` escape within the string.
 
 ```python
 # Yes:
