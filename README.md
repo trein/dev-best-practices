@@ -16,7 +16,6 @@ This document is a work-in-progress. In order to contribute to it, create a pull
 - [Test-Driven Development by Example](http://www.amazon.ca/Test-Driven-Development-By-Example/dp/0321146530) - Kent Beck
 - [Design Patterns](http://www.amazon.ca/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 - [Refactoring: Improving the Design of Existing Code](http://www.amazon.ca/Refactoring-Improving-Design-Existing-Code/dp/0201485672) - Martin Fowler
-- [Design Patterns for Beginners](http://pypix.com/tools-and-tips/design-patterns-beginners/) - Ajay Kumar
 - [Sample Python Design Patterns Implementations](https://github.com/faif/python-patterns) - Sakis Kasampalis
 - [Pragmatic Version Control Using Git](http://pragprog.com/book/tsgit/pragmatic-version-control-using-git) - Travis Swicegood
 - [Git Version Control Official Reference](http://git-scm.com/)
@@ -26,4 +25,5 @@ This document is a work-in-progress. In order to contribute to it, create a pull
 - [Python Best Practices](http://docs.python-guide.org/en/latest/)
 - [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 - [Best Practices in Modern Web Projects](http://blog.arvidandersson.se/2014/06/17/best-practices-in-modern-web-projects) - Arvid Andersson
-
+- [Object-Oriented Design Heuristics](https://www.amazon.com/exec/obidos/ISBN=020163385X/portlandpatternrA/) - Arthur J. Riel
+- [Summary on Arthur Riel OOP Design Heuristics](http://stephane.ducasse.free.fr/Web/ArchivedLectures/Lectures-OOP-0203/OOP-11-RielSelectedHeuristics.pdf) - Stéphane Ducasse
